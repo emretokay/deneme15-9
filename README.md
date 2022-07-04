@@ -1,1 +1,3 @@
 # deneme15-9
+
+bu readme niye boş insan bir bilgilendirme mesajı yazar....
